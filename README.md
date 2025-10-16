@@ -4,6 +4,11 @@
 </head>
 
 <body >
+<style>
+    body {
+      background-color:"#fdfd96";
+    }
+  </style>
 
   <h1><b>Biografía de Paula Andrea Suárez Bustamante</b></h1>
 
