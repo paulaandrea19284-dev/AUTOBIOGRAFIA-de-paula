@@ -3,9 +3,9 @@
   <link rel="stylesheet" href="style.css">
 </head>
 
-<body bgcolor="#fdfd96">
+<body >
 
-  <h1><b><font color=#660066>Biografía de Paula Andrea Suárez Bustamante</font></b></h1>
+  <h1><b>Biografía de Paula Andrea Suárez Bustamante</b></h1>
 
   <img src="FOTOPAULA.jpg" style="float: left; width: 300px;height: 370px; border-radius: 10px; margin-right: 20px;" >
 
