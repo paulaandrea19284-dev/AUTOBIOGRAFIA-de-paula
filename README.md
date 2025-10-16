@@ -16,7 +16,7 @@
 
    <font size="6"><p>Mi nombre es Paula Andrea Suárez Bustamante.<br>
     Nací el <u>18 de abril del 2006</u> en <b>Bucaramanga</b>. Mis padres se llaman <i>Edinson Suárez</i> y <i>Cristina Bustamante</i>, y tengo tres hermanas:
-     <font color=#003366><b>Camila</b></font>, <font color=#660066><b>Crisbel</b></font> y <font color=#6e4b7e><b>Gabriela</b></font>.</p>
+     <font color="#003366"><b>Camila</b></font>, <font color="#660066"><b>Crisbel</b></font> y <font color="#6e4b7e"><b>Gabriela</b></font>.</p>
 
   <p>Cuando era pequeña, vivía con mis abuelos en un pueblo llamado <u>Tibú</u>, en <i>Norte de Santander</i>. A los ocho años me vine a vivir a Bucaramanga con mi mamá, y allí continué mis estudios en <b>Girón</b>.</p>
 
@@ -24,7 +24,7 @@
 
   <hr>
 
-  <h2><font color=#003366;">🎯 Hobbies</font></h2>
+  <h2><font color="#003366">🎯 Hobbies</font></h2>
   <ul>
     <li>📣 Porrismo</li>
     <li>🛼 Patinaje</li>
@@ -37,7 +37,7 @@
 
   <hr>
 
-  <h2><font color=#003366;">🏆 Logros personales</font></h2>
+  <h2><font color="#003366">🏆 Logros personales</font></h2>
   <ol>
     <li>📈 Mantener buenas calificaciones</li>
     <li>🌟 Ser reconocida como líder</li>
